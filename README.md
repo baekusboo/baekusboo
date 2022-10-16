@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
+[![@sai_sunitha's Holopin board](https://holopin.me/sai_sunitha)](https://holopin.io/@sai_sunitha)
 
-<!--
-**baekusboo/baekusboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an awesome project to showcase my skills!
+- 🌱 I’m currently learning on full-stack-development-MERN
+- 👯 I’m looking to collaborate on how to achieve world peace together.
+- 🤔 I’m looking for help on making contributions to opensource projects.
+- 💬 Ask me about anything your curious about!
+- 📫 How to reach me: https://www.linkedin.com/in/sai-sunitha-g-418a161b5/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am a digital artist!
