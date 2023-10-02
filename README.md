@@ -1,4 +1,6 @@
 ### Hello World! 👋
+[![An image of @baekusboo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/baekusboo)](https://holopin.io/@baekusboo)
+
 [![@sai_sunitha's Holopin board](https://holopin.me/sai_sunitha)](https://holopin.io/@sai_sunitha)
 
 - 🔭 I’m currently working on an awesome project to showcase my skills!
